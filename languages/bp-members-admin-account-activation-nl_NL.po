@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Members Admin Account Activation v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-30 07:46:54+0000\n"
+"Last-Translator: erwin <erwin@sowmedia.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: bp-members-admin-account-activation.php:0
+#@ bp-members-admin-account-activation
+msgid "BP Members Admin Account Activation"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: bp-members-admin-account-activation.php:0
+#@ bp-members-admin-account-activation
+msgid "https://github.com/lmoffereins/bp-members-admin-account-activation/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: bp-members-admin-account-activation.php:0
+#@ bp-members-admin-account-activation
+msgid "Require admin approval for BP account activations"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: bp-members-admin-account-activation.php:0
+#@ bp-members-admin-account-activation
+msgid "Laurens Offereins"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: bp-members-admin-account-activation.php:0
+#@ bp-members-admin-account-activation
+msgid "https://github.com/lmoffereins/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: bp-members-admin-account-activation.php:0
+#@ bp-members-admin-account-activation
+msgid "1.0.0"
+msgstr ""
+
+#: bp-members-admin-account-activation.php:195
+#@ bp-members-admin-account-activation
+msgid "Je hebt je aangemeld op [site_name]!"
+msgstr ""
+
+#: bp-members-admin-account-activation.php:208
+#@ bp-members-admin-account-activation
+msgid ""
+"\n"
+"Welkom op [site_name]!\n"
+"\n"
+"\n"
+"We hebben je aanmelding als professional ontvangen. Onze beheerders gaan nu zo snel mogelijk de aanvraag beoordelen. We verwachten binnen één werkdag met een reactie te komen.\n"
+"\n"
+"\n"
+"Zodra de aanvraag wordt goedgekeurd, krijg je bericht dat je met de gekozen gegevens kan inloggen. Als ingelogde gebruiker heb je toegang tot de profielen en adresgegevens van de professionals.\n"
+"\n"
+"\n"
+"Met vriendelijke groet,\n"
+"\n"
+"\n"
+"Het team van [site_name]\n"
+"\t\t\t"
+msgstr "Welkom op [site_name]!<br><br>We hebben je aanmelding als professional ontvangen. Onze beheerders gaan nu zo snel mogelijk de aanvraag beoordelen. We verwachten binnen één werkdag met een reactie te komen.<br><br>Zodra de aanvraag wordt goedgekeurd, krijg je bericht dat je met de gekozen gegevens kan inloggen. Als ingelogde gebruiker heb je toegang tot de profielen en adresgegevens van de professionals. En je kan je eigen gegevens aanvullen, zoals bijvoorbeeld de profielfoto. <br><br>Met vriendelijke groet,<br><br>Het team van [site_name]"
+
+#: bp-members-admin-account-activation.php:227
+#@ bp-members-admin-account-activation
+msgid "Een nieuwe aanmelding voor [site_name]"
+msgstr ""
+
+#: bp-members-admin-account-activation.php:242
+#, php-format
+#@ bp-members-admin-account-activation
+msgid ""
+"\n"
+"Iemand heeft zich aangemeld op [site_name] met de volgende gegevens:\n"
+"\n"
+"\n"
+"Login: %1$s\n"
+"\n"
+"E-mail: %2$s\n"
+"\n"
+"\n"
+"Je kunt het account activeren door op de volgende link te klikken:\n"
+"\n"
+"\n"
+"%3$s\n"
+"\n"
+"\n"
+"Of ga naar de WordPress dashboard > Gebruikers > Beheer Inschrijvingen om de nieuwe accounts te beheren.\n"
+"\n"
+"\n"
+"\t\t"
+msgstr "Iemand heeft zich aangemeld op [site_name] met de volgende gegevens:<br><br>Login: %1$s<br><br>E-mail: %2$s<br><br>Je kunt het account activeren door op de volgende link te klikken:%3$s<br><br>Of ga naar de WordPress dashboard > Gebruikers > Beheer Inschrijvingen om de nieuwe accounts te beheren."
+
+#: bp-members-admin-account-activation.php:262
+#@ bp-members-admin-account-activation
+msgid "Je account is geactiveerd op [site_name]"
+msgstr ""
+
+#: bp-members-admin-account-activation.php:279
+#, php-format
+#@ bp-members-admin-account-activation
+msgid ""
+"\n"
+"We hebben je aanmelding als professional ontvangen en goedgekeurd.\n"
+"\n"
+"Om je account te bekijken en te bewerken dien je in te loggen met de volgende gegevens:\n"
+"\n"
+"\n"
+"Login: %1$s\n"
+"\n"
+"Wachtwoord: je gekozen wachtwoord\n"
+"\n"
+"\n"
+"Ga dan naar Je Profiel of ga naar Professionals om de andere profielen te bekijken.\n"
+"\n"
+"\n"
+"Met vriendelijke groet,\n"
+"\n"
+"\n"
+"Het team van [site_name]\n"
+"\t\t"
+msgstr "We hebben je aanmelding als professional ontvangen en goedgekeurd! Om je account te bekijken en te bewerken dien je in te loggen met de volgende gegevens:<br><br>Website: <a href=\\\"http://www.gezondheidnoordwest.nl\\\">http://www.gezondheidnoordwest.nl</a><br><br>Login: %1$s<br>Wachtwoord: je gekozen wachtwoord<br><br>Ga dan naar Je Profiel om je gegevens aan te vullen of ga naar Professionals om de andere profielen te bekijken.<br><br>Met vriendelijke groet<br>Het team van [site_name]<br>"
+
+#: bp-members-admin-account-activation.php:313
+#@ bp-members-admin-account-activation
+msgid "Activate the account"
+msgstr ""
+
